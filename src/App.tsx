@@ -1,13 +1,7 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      
-    </div>
-  );
-}
+const App: React.FC = () => {
+  return <h1>Hello from Tamil Family Tree App 🎉</h1>;
+};
 
 export default App;
